@@ -10,16 +10,16 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
+
 
 ## Framework
 <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
 <!--Fastapi-->
-  <img src="https://img.shields.io/badge/FastAPI-0009688?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  <br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+
 
 # GitHubs Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonyeol-Jeong)](https://github.com/anuraghazra/github-readme-stats)
