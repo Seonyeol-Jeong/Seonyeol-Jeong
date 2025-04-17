@@ -27,6 +27,11 @@
 # Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seonyeol-Jeong)](https://github.com/anuraghazra/github-readme-stats)
 
+# 💡 Fork Contributions
+### 1. 
+
+
+
 <!--
 **Seonyeol-Jeong/Seonyeol-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
