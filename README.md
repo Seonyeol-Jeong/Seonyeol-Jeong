@@ -20,7 +20,6 @@
 <!--Fastapi-->
   <img src="https://img.shields.io/badge/FastAPI-0009688?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <br/>
-  <
 
 # GitHubs Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonyeol-Jeong)](https://github.com/anuraghazra/github-readme-stats)
